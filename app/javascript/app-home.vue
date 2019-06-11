@@ -8,7 +8,7 @@
 export default {
   data: function() {
     return {
-      message: "this is from app-home component"
+      message: "message from home component"
     };
   }
 };

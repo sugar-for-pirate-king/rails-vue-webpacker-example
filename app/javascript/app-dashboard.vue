@@ -8,7 +8,7 @@
 export default {
   data: function() {
     return {
-      message: "this is come from app dashboard-component"
+      message: "message from dashboard component"
     };
   }
 };
